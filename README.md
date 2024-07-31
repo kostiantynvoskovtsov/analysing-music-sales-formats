@@ -1,1 +1,1 @@
-In this portfolio I'm applying aqcuired data-related skills to various real world scenarios. These include analysis of music format sales, as well as building pipeline for adding newly uploaded songs to streaming service, for example.
+In this project I'm applying aqcuired data-related skills to various real world scenarios, analysis of music format sales, for example.
